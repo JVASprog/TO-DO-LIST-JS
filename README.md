@@ -1,0 +1,2 @@
+# TO-DO LIST
+    Desafio de uma to-do list, onde, ao colocar uma tarefa na barra(input) e clicar no botão adicionar(submit), vai gerando uma lista com checkboxes. Quando a tarefa for realizada, marca-se a checkbox e o nome da tarefa é riscado na lista.
